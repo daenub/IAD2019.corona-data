@@ -11,7 +11,7 @@ module.exports = {
     sourceType: "module",
   },
   rules: {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
   },
   ignorePatterns: ["dist", "node_modules"],
 }
