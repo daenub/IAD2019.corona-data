@@ -1,0 +1,23 @@
+{
+  "name": "IAD2019.corona-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dan Büschlen <danbueschlen@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "d3": "^7.1.1"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "scripts": {
+    "prettier": "prettier --write .",
+    "check": "eslint . && prettier --check ."
+  }
+}
