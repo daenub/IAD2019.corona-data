@@ -25,6 +25,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
+    "*.js": "eslint --fix",
     "**/*": "prettier --write --ignore-unknown"
   }
 }
