@@ -19,6 +19,6 @@
   },
   "scripts": {
     "prettify": "prettier --write .",
-    "lint": "eslint . && prettier --check ."
+    "lint": "eslint ."
   }
 }
