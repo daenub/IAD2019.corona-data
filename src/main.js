@@ -1,3 +1,13 @@
-import data from "../data/dataset.json"
+import { initChart } from "./js/chart"
 
-console.log(data)
+const ready = (fn) => {
+  if (document.readyState !== "loading") {
+    fn.call()
+  } else {
+    document.addEventListener("DOMContentLoaded", fn)
+  }
+}
+
+ready(() => {
+  initChart()
+})
