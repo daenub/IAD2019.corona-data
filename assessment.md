@@ -56,7 +56,7 @@ Referenz: [line length • practicaltypography.com • Aufgerufen am 12.11.2021]
 
 Auf dem Portal werden bereits die Übersterblichkeit und der Human Development Index für unterschiedliche Visualisierungen verwendet. Ich habe nun die beiden Datensätze verwendet um aufzuzeigen ob Länder mit einem höheren Wohlstandsindikator auch weniger stark unter Corona gelitten haben.
 
-Die Übersterblichkeitsrate ist aber mit Vorsicht zu geniessen, da gerade in ärmeren Ländern eine relativ hohe Prozentzahl an Todesfällen nicht erfasst wird.
+Die Übersterblichkeitsrate ist aber [mit Vorsicht zu geniessen](https://github.com/owid/covid-19-data/tree/master/public/data/excess_mortality#important-points-about-the-data), da gerade in ärmeren Ländern eine relativ hohe Prozentzahl an Todesfällen nicht erfasst wird.
 
 ![Scatter Plot HDI / Excess Mortality](/chart/scatter-plot.png)
 
