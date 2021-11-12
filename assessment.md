@@ -44,13 +44,14 @@ Eine einfache Lösung wäre, die Visualisierungen in klare Region zu bündeln, w
 
 Wenn die Menge an Informationen auf dem Dashboard reduziert wird, werden diese noch vorhandenen Informationen besser verständlich und konsumierbar.
 
-Referenz: [Arranging Your Charts as a Dashboard • dataschool.com • Aufgerufen am 12.11.2021](https://dataschool.com/how-to-design-a-dashboard/arranging-your-charts-as-a-dashboard/#avoid-too-much-information-tmi)
+[Arranging Your Charts as a Dashboard • dataschool.com • Aufgerufen am 12.11.2021](https://dataschool.com/how-to-design-a-dashboard/arranging-your-charts-as-a-dashboard/#avoid-too-much-information-tmi)
 
 ### Lesbarkeit
 
 Alle Inhalte laufen momentan über die ganze Breite des Browserfensters. Dies führt bei den Texten zu sehr langen Zeilenbreite und somit zu einer schlechten Lesbarkeit.
 Die Lesbarkeit kann sehr einfach optimiert werden, indem eine maximale Breite für die Absätze definiert wird.
-Referenz: [line length • practicaltypography.com • Aufgerufen am 12.11.2021](https://practicaltypography.com/line-length.html)
+
+[line length • practicaltypography.com • Aufgerufen am 12.11.2021](https://practicaltypography.com/line-length.html)
 
 ## Neue Visualisierung
 
