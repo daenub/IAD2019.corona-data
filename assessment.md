@@ -58,4 +58,5 @@ Auf dem Portal werden bereits die Übersterblichkeit und der Human Development I
 
 Die Übersterblichkeitsrate ist aber mit Vorsicht zu geniessen, da gerade in ärmeren Ländern eine relativ hohe Prozentzahl an Todesfällen nicht erfasst wird.
 
-![Scatter Plot HDI / Excess Mortality](/data/scatter-plot.png)
+![Scatter Plot HDI / Excess Mortality](/chart/scatter-plot.png)
+
