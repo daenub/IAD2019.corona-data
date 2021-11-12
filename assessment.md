@@ -34,7 +34,7 @@ Die gescrapten Daten werden z.B. in folgendem Format gespeichert:
 
 ### Hierarchie und Zugehörigkeit
 
-Um die zugehörigkeit von Visualisierungen besser zu visualisieren sollten klarere Sektionen definiert werden. Das «Law of Proximity» besagt, dass Elemente welche nahe bei einander sind auch eine Bezug zu einander haben. Ebenso werden Elemente, welche eine grössere Distanz zu einander haben, so wahrgenommen, dass sie keinen Bezug zu einander haben.
+Um die zugehörigkeit von Visualisierungen besser zu visualisieren sollten klare Sektionen definiert werden. Das «Law of Proximity» besagt, dass Elemente welche nahe beieinander sind auch eine Bezug zueinander haben. Ebenso werden Elemente, welche eine grössere Distanz haben, so wahrgenommen, dass sie keinen Bezug zueinander haben.
 
 Eine einfache Lösung wäre, die Visualisierungen in klare Region zu bündeln, welche gegenseitig mit genügend Weissraum abgetrennt sind. Somit sind auch weniger Informationen auf einmal sichtbar.
 
@@ -48,15 +48,14 @@ Referenz: [Arranging Your Charts as a Dashboard • dataschool.com • Aufgerufe
 
 ### Lesbarkeit
 
-Alle Inhälte laufen momentan über die ganze Breite des Browserfensters. Dies führt bei den Texten zu sehr langen Zeilenbreite und somit zu einer schlechten Lesbarkeit.
+Alle Inhalte laufen momentan über die ganze Breite des Browserfensters. Dies führt bei den Texten zu sehr langen Zeilenbreite und somit zu einer schlechten Lesbarkeit.
 Die Lesbarkeit kann sehr einfach optimiert werden, indem eine maximale Breite für die Absätze definiert wird.
 Referenz: [line length • practicaltypography.com • Aufgerufen am 12.11.2021](https://practicaltypography.com/line-length.html)
 
-## Neue Visualierung
+## Neue Visualisierung
 
 Auf dem Portal werden bereits die Übersterblichkeit und der Human Development Index für unterschiedliche Visualisierungen verwendet. Ich habe nun die beiden Datensätze verwendet um aufzuzeigen ob Länder mit einem höheren Wohlstandsindikator auch weniger stark unter Corona gelitten haben.
 
 Die Übersterblichkeitsrate ist aber [mit Vorsicht zu geniessen](https://github.com/owid/covid-19-data/tree/master/public/data/excess_mortality#important-points-about-the-data), da gerade in ärmeren Ländern eine relativ hohe Prozentzahl an Todesfällen nicht erfasst wird.
 
 ![Scatter Plot HDI / Excess Mortality](/chart/scatter-plot.png)
-
