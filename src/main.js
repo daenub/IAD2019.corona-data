@@ -1,4 +1,5 @@
-import { initChart } from "./js/chart"
+import { Chart } from "./js/chart"
+import { render } from "preact"
 
 const ready = (fn) => {
   if (document.readyState !== "loading") {
@@ -9,5 +10,8 @@ const ready = (fn) => {
 }
 
 ready(() => {
-  initChart()
+  // initChart()
+
+  const el = document.querySelector("#root")
+  render(<Chart />, el)
 })
