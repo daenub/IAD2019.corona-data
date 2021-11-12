@@ -43,6 +43,8 @@ Eine einfache Lösung wäre, die Visualisierungen in klare Region zu bündeln, w
 ### Too much information
 
 Wenn die Menge an Informationen auf dem Dashboard reduziert wird, werden diese noch vorhandenen Informationen besser verständlich und konsumierbar.
+Auf dem ersten sichtbaren Bereich oder allgmein auf der Startseite könnten die Daten stärker zusammengefasst werden um einen besseren Überblick zu verschaffen.
+Falls dann User gewisse Daten aufboren möchten sollten sie diese Möglichkeit auf Detailseiten oder in separaten Regionen tun können.
 
 Referenz: [Arranging Your Charts as a Dashboard • dataschool.com • Aufgerufen am 12.11.2021](https://dataschool.com/how-to-design-a-dashboard/arranging-your-charts-as-a-dashboard/#avoid-too-much-information-tmi)
 
